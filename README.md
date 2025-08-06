@@ -1,1 +1,1 @@
-# Digit-Prediction-MNIST
+This project implements a machine learning pipeline to classify handwritten digits from the MNIST dataset. It uses a **Random Forest classifier** and incorporates pixel-level **data augmentation** to improve model generalization. The project includes preprocessing, model training, hyperparameter tuning, evaluation, and visualizations like confusion matrix and sample digit shifts.
