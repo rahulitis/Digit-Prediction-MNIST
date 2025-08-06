@@ -121,6 +121,7 @@ def DataAugmentor(data):
     return (top_shift.flatten(), bottom_shift.flatten(), 
             left_shift.flatten(), right_shift.flatten())
 ```
+<img width="822" height="199" alt="image" src="https://github.com/user-attachments/assets/75a97dcb-e0c5-40c4-84e9-62a88af108ab" />
 
 ### Augmentation Results
 - **Original Dataset**: 70,000 samples  
