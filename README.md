@@ -129,6 +129,7 @@ def DataAugmentor(data):
 - **Transformation Method**: Four directional pixel shifts (top, bottom, left, right)
 - **Accuracy Improvement**: KNN gained 1% accuracy boost (97% → 98%)
 - **Implementation**: Custom `DataAugmentor` function creating spatially shifted versions
+<img width="502" height="432" alt="image" src="https://github.com/user-attachments/assets/4b244f42-912e-4dbb-b59a-469a6104e704" />
 
 ## Hyperparameter Tuning
 
